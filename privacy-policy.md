@@ -29,14 +29,24 @@ Firebase Services
 
 The app uses Google Firebase Firestore to store and synchronize certain app features such as:
 	•	Tirumala crowd status updates
-	•	devotional chant counters
-	•	configuration data
+	•	Devotional chant counters
+	•	Application configuration data
 
-Firebase may collect limited technical information such as device type or IP address as part of its infrastructure services.
+The app does not collect or store personal information in Firebase.
 
-You can review Firebase privacy practices here:
+Firebase is a third-party service provider. You can review Firebase privacy practices here:
 
 https://firebase.google.com/support/privacy
+
+⸻
+
+Location Information
+
+The app may temporarily access the device’s precise location when a user submits a Tirumala crowd update.
+
+Location is used only to verify that the user is within the Tirumala temple area before allowing the submission of a crowd update.
+
+Location data is not stored, transmitted, or associated with any personal identity.
 
 ⸻
 
